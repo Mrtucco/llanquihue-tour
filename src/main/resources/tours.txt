@@ -1,0 +1,7 @@
+Ruta del Salmón;gastronómico;45000
+Paseo Lago Llanquihue;lacustre;32000
+Tour Volcán Calbuco;cultural;60000
+Visita Fundo Quilanto;gastronómico;28000
+Circuito Alemán Puerto Octay;cultural;38000
+Tour Personalizado Fruitillar;personalizado;75000
+Navegación río Maullín;lacustre;41000
