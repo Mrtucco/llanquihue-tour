@@ -17,8 +17,7 @@
 
     <build>
         <plugins>
-            <!-- Genera un .jar ejecutable con la clase Main como punto de entrada.
-                 Esta es la "versión de distribución funcional" solicitada en la actividad. -->
+            
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
