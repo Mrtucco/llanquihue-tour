@@ -1,11 +1,11 @@
 # LlanquihueTourApp
 
-* Nombre completo: [Escribe aquí tu nombre]
-* Sección: [Escribe aquí tu sección]
-* Carrera: Ingeniería en Informática
-* Sede: [Escribe aquí tu sede, por ejemplo: Puerto Montt]
+* Nombre completo: Juan Miranda
+* Sesion: POO
+* Carrera: Analista Programador Computacional
+* Sede: Online
 
-## 📘 Descripción general del sistema
+##  Descripción general del sistema
 
 Este proyecto corresponde a la **Evaluación Final Transversal** de la asignatura
 Desarrollo Orientado a Objetos I. Es la continuación directa del sistema desarrollado
@@ -31,7 +31,7 @@ Se aplican los siguientes principios de POO:
 - **Interfaces**: `Tour` y `Persona` implementan `Buscable`, lo que permite tratar
   ambas entidades de forma uniforme al momento de buscar.
 
-## 🧱 Estructura de paquetes y clases
+##  Estructura de paquetes y clases
 
 ```
 src/main/java/
@@ -54,7 +54,7 @@ src/main/resources/
 └── personas.txt  → Clientes y empleados (TIPO;nombre;rut;telefono;campo4;campo5)
 ```
 
-## ⚙️ Instrucciones para clonar y ejecutar el proyecto
+##  Instrucciones para clonar y ejecutar el proyecto
 
 1. Clona el repositorio desde GitHub:
 
@@ -88,7 +88,7 @@ java -jar target/LlanquihueTourApp-1.0-SNAPSHOT.jar
 > `personas.txt` quedan empaquetados dentro del propio `.jar` (gracias a estar en
 > `resources/`), por lo que no es necesario copiarlos aparte.
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 - Java SE 21
 - Maven
