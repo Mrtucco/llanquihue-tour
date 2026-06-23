@@ -1,0 +1,6 @@
+CLIENTE;Mariana Soto;15234567-8;+56912345678;Ruta del Salmón Ahumado;2
+CLIENTE;Pedro Alarcón;16345678-9;+56923456789;Travesía Volcán Osorno;4
+CLIENTE;Francisca Muñoz;17456789-0;+56934567890;Excursión Saltos del Petrohué;1
+EMPLEADO;Tomás Hernández;14123456-7;+56945678901;Guía turístico;650000
+EMPLEADO;Valentina Ríos;13234567-K;+56956789012;Operador de transporte;580000
+EMPLEADO;Joaquín Pérez;12345678-9;+56967890123;Administrativo;600000

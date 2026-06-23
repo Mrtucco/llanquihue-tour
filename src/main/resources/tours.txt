@@ -1,7 +1,8 @@
-Ruta del Salmón;gastronómico;45000
-Paseo Lago Llanquihue;lacustre;32000
-Tour Volcán Calbuco;cultural;60000
-Visita Fundo Quilanto;gastronómico;28000
-Circuito Alemán Puerto Octay;cultural;38000
-Tour Personalizado Fruitillar;personalizado;75000
-Navegación río Maullín;lacustre;41000
+Ruta del Salmón Ahumado;Gastronómico;35000
+Sabores de Llanquihue;Gastronómico;42000
+Paseo en Lago Llanquihue;Lacustre;28000
+Travesía Volcán Osorno;Lacustre;55000
+Ruta de los Colonos Alemanes;Cultural;30000
+Museo y Patrimonio de Frutillar;Cultural;25000
+Excursión Saltos del Petrohué;Excursión;48000
+Aventura en Parque Vicente Pérez Rosales;Excursión;60000
